@@ -1,0 +1,8 @@
+site_name: My Docs
+site_description: Michael Phillips journal
+use_directory_urls: false
+strict: true
+markdown_extensions:
+    - pymdownx.tasklist
+extra_css:
+    - css/custom.css
