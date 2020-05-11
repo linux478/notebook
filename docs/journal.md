@@ -1,7 +1,76 @@
 ---
 title: Journal
 ---
-# 2020--4-30 Friday
+# Week 19 Timecard
+
+| Date | Clock-In | Clock-Out | Deltas |
+|------|----------|-----------|--------|
+| M-11 |  7:11    |           |        |
+| T-12 |          |           |        |
+| W-13 |          |           |        |
+| R-14 |          |           |        |
+| F-15 |          |           |        |
+| S-16 |          |           |        |
+|------|----------|-----------|--------|
+|      | Totals   |           |        |
+
+## 2020-05-12 Tuesday
+
+- Office furniture will be arriving and installed by WB Mason
+
+## 2020-05-06 Wednesday
+
+- [ ] Backups
+- [ ] Update Annex
+
+## 2020-05-05 Tuesday
+
+- Jack wants to clone harddrives (need to get Richards approval)
+- move office to the back room
+    - I like the back room because i have no sunlight.  The room is more quiet.
+- using the binder today to guide me through the drawing
+    - it looks like it is working
+    - i am constantly moving forward.
+- i am now using a hexagon to indicate my progress on the binder drawing
+
+## 2020-05-04 Monday
+- Clock-In:  7:30AM
+- Clock-Out: 5:50PM
+
+# Week 19 Timecard
+
+| Date | Clock-In | Clock-Out | Deltas |
+|------|----------|-----------|--------|
+| M-04 |  7:22    | 17:50     |  9.97  |
+| T-05 |  7:16    | 15:39     |  7.88  |
+| W-06 |  7:04    |           |        |
+|------|----------|-----------|--------|
+|      | Totals   |           | 17.85  |
+
+## 2020-05-12 Tuesday
+
+- Office furniture will be arriving and installed by WB Mason
+
+## 2020-05-06 Wednesday
+
+- [ ] Backups
+- [ ] Update Annex
+
+## 2020-05-05 Tuesday
+
+- Jack wants to clone harddrives (need to get Richards approval)
+- move office to the back room
+    - I like the back room because i have no sunlight.  The room is more quiet.
+- using the binder today to guide me through the drawing
+    - it looks like it is working
+    - i am constantly moving forward.
+- i am now using a hexagon to indicate my progress on the binder drawing
+
+## 2020-05-04 Monday
+- Clock-In:  7:30AM
+- Clock-Out: 5:50PM
+
+# 2020-04-30 Friday
 
 - Working from home
 - Total Hours: 26.48
