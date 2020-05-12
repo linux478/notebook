@@ -6,7 +6,7 @@ title: Dashboard
 ## Working In Progress
 
 - [ ] A+ Videos
-    -   3% Done (7/210)
+    -   3% Done (8/210)
 - [ ] SP-1018
     - 40% Done (10/25)
     - [ ] self check
