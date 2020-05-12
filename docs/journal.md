@@ -14,6 +14,15 @@ title: Journal
 |------|----------|-----------|--------|
 |      | Totals   |           |        |
 
+## 2020-05-16 Saturday
+## 2020-05-15 Friday
+## 2020-05-14 Thursday
+## 2020-05-13 Wednesday
+## 2020-05-12 Tuesday
+
+- [X] Backups
+- [X] New desk is all setup
+
 ## 2020-05-11 Monday
 
 - [X] Sexual Harassment Training
