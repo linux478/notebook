@@ -16,7 +16,13 @@ title: Journal
 
 ## 2020-05-16 Saturday
 ## 2020-05-15 Friday
+
+- [ ] Backups
+
 ## 2020-05-14 Thursday
+
+- [X] Backups
+
 ## 2020-05-13 Wednesday
 ## 2020-05-12 Tuesday
 
