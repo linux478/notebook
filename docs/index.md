@@ -15,6 +15,10 @@ title: Dashboard
 
 - [ ] SP-1022
 
+## Wishlist
+
+- [ ] Create Parts inventory from data dump from NAV
+
 ## Archive
 
 - [X] SP-1030-C
