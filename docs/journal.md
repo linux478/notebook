@@ -1,6 +1,37 @@
 ---
 title: Journal
 ---
+# Week 21 Timecard
+
+| Date | Clock-In | Clock-Out | Deltas |
+|------|----------|-----------|--------|
+| M-18 |  6:56    |           |        |
+| T-19 |          |           |        |
+| W-20 |          |           |        |
+| R-21 |          |           |        |
+| F-22 |          |           |        |
+| S-23 |          |           |        |
+|------|----------|-----------|--------|
+|      | Totals   |           |        |
+
+## 2020-05-23 Saturday
+## 2020-05-22 Friday
+
+- [ ] Backups
+
+## 2020-05-21 Thursday
+
+- [ ] Backups
+
+## 2020-05-21 Wednesday
+## 2020-05-20 Tuesday
+
+- [ ] Backups
+
+## 2020-05-19 Monday
+
+- [X] Backups 
+
 # Week 20 Timecard
 
 | Date | Clock-In | Clock-Out | Deltas |
