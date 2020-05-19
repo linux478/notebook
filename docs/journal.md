@@ -26,7 +26,7 @@ title: Journal
 ## 2020-05-21 Wednesday
 ## 2020-05-20 Tuesday
 
-- [ ] Backups
+- [X] Backups
 
 ## 2020-05-19 Monday
 
