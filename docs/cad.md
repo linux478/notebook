@@ -15,6 +15,16 @@ title: CAD
 
 ## Standards
 
+### Layers
+
+| Name            | Plot     | Color     | Linetype     | Transparancy     | Description               |
+| --------------- | -------- | --------- | ------------ | ---------------- | ------------------------- |
+| 0               | Yes      | 7         | Continuous   | 0                |                           |
+| CHECK           | yes      | 1         | Continuous   | 0                |                           |
+| DOCUMENTATION   | yes      | 7         | Continuous   | 0                | All paperwork scaned in   |
+| NOPLOT-SHEET    | no       | 2         | Continuous   | 0                | footprint of sheet        |
+
+
 ### Revisions
 
 After long discussion with many people, The CAD Department have come up with
