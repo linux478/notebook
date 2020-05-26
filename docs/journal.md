@@ -14,6 +14,13 @@ title: Journal
 |------|----------|-----------|--------|
 |      | Totals   |           |  40.98 |
 
+## 2020-05-25 Monday
+## 2020-05-26 Tuesday
+## 2020-05-27 Wednesday
+## 2020-05-28 Thursday
+## 2020-05-29 Friday
+## 2020-05-30 Saturday
+
 # Week 21 Timecard
 
 | Date | Clock-In | Clock-Out | Deltas |
