@@ -24,6 +24,10 @@ title: CAD
 | DOCUMENTATION   | yes      | 7         | Continuous   | 0                | All paperwork scaned in   |
 | NOPLOT-SHEET    | no       | 2         | Continuous   | 0                | footprint of sheet        |
 
+### Linking Pages Together
+
+Linking pages will be done by using a box pointer.  The box pointer will have
+the drawing title and drawing number displayed inside of it
 
 ### Revisions
 
