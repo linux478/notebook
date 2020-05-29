@@ -95,3 +95,9 @@ title: IT New Computer Checklist
 ### Software - Laptop
 
 - [ ] Sophos - Encryption
+
+## Software
+
+### Warehouse
+
+- [ ] SP-RDS2 shortcut on the desktop
