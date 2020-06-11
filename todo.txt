@@ -1,0 +1,26 @@
+#01 Sorting tasks:
+#02 <localleader>s Sort the file
+#03 <localleader>s+ Sort the file on +Projects
+#04 <localleader>s@ Sort the file on @Contexts
+#05 <localleader>sd Sort the file on dates
+#06 <localleader>sdd Sort the file on due dates
+#07 
+#08 Edit priority:
+#09 <localleader>j Decrease the priority of the current line
+#10 <localleader>k Increase the priority of the current line
+#11 <localleader>a Add the priority (A) to the current line
+#12 <localleader>b Add the priority (B) to the current line
+#13 <localleader>c Add the priority (C) to the current line
+#14 
+#15 Date:
+#16 <localleader>d Set current task's creation date to the current date
+#17 date<tab> (Insert mode) Insert the current date
+#18
+#19 Mark as done:
+#20 <localleader>x Mark current task as done
+#21 <localleader>X Mark all tasks as done
+#22 <localleader>D Move completed tasks to done.txt
+#23
+(A) 2020-06-11 Add changes from change request +Annex +SP-1022
+2020-06-11 Review +Annex +SP-1022 due:2020-06-30
+2020-06-11 Review +Annex +SP-1029 due:2020-06-30
