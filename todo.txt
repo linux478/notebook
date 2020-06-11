@@ -21,6 +21,10 @@
 #21 <localleader>X Mark all tasks as done
 #22 <localleader>D Move completed tasks to done.txt
 #23
-(A) 2020-06-11 Add changes from change request +Annex +SP-1022
-2020-06-11 Review +Annex +SP-1022 due:2020-06-30
-2020-06-11 Review +Annex +SP-1029 due:2020-06-30
+(A) 2020-06-11 Add changes from change request +Annex +SP-1022 @autocad
+2020-06-11 Review +Annex +SP-1022 @autocad due:2020-06-30
+2020-06-11 Review +Annex +SP-1029 @autocad due:2020-06-30
+x 2020-06-11 2020-06-11 Add page reference left +Standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference right +Standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference up +Standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference down +Standards +blocks @autocad
