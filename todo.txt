@@ -24,7 +24,8 @@
 (A) 2020-06-11 Add changes from change request +Annex +SP-1022 @autocad
 2020-06-11 Review +Annex +SP-1022 @autocad due:2020-06-30
 2020-06-11 Review +Annex +SP-1029 @autocad due:2020-06-30
-x 2020-06-11 2020-06-11 Add page reference left +Standards +blocks @autocad
-x 2020-06-11 2020-06-11 Add page reference right +Standards +blocks @autocad
-x 2020-06-11 2020-06-11 Add page reference up +Standards +blocks @autocad
-x 2020-06-11 2020-06-11 Add page reference down +Standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference left +standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference right +standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference up +standards +blocks @autocad
+x 2020-06-11 2020-06-11 Add page reference down +standards +blocks @autocad
+x 2020-06-11 2020-06-11 Pipe call arrowhead size = .35 +standards +leaders @autocad
