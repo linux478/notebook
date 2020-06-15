@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+---
+title: Dashboard
+---
+# Dashboard
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Working In Progress
 
-## Commands
+- [ ] A+ Videos
+    -   4% Done (9/210)
+- [ ] SP-1018
+    - 48% Done (12/25)
+    - [ ] self check
+- [ ] SP-1035
+    - Annual Review Form
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Queue
 
-## Project layout
+- [ ] SP-1022
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Wishlist
+
+- [ ] Create Parts inventory from data dump from NAV
+
+## Archive
+
+- [X] SP-1030-C

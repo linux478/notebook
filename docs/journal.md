@@ -1,6 +1,7 @@
 ---
 title: Journal
 ---
+
 # Week 19 Timecard
 
 | Date | Clock-In | Clock-Out | Deltas |
@@ -36,61 +37,56 @@ title: Journal
 
 # 2020-04-30 Friday
 
-- Working from home
-- Total Hours: 26.48
-- Clock-In: 8:45
+# Week 22 Timecard
 
-- [ ] Drawings
-    - [ ] SP-1018
-    - [ ] SP-1022
+| Date | Clock-In | Clock-Out | Deltas |
+|------|----------|-----------|--------|
+| M-25 |  8:00    |  16:00    |   8.00 |
+| T-26 |  7:13    |  18:06    |  10.38 |
+| W-27 |  7:16    |           |        |
+| R-28 |          |           |        |
+| F-29 |          |           |        |
+| S-30 |          |           |        |
+|------|----------|-----------|--------|
+|      | Totals   |           |  18.38 |
 
-# 2020-04-29 Wednesday
+## 2020-05-25 Monday
+## 2020-05-26 Tuesday
+## 2020-05-27 Wednesday
 
-- Total Hours: 18.57
-- Clock-In: 7:09
+- Email MO "out of office tomorrow"
 
-- [X] Sent SP-1030 for Approval
-- [X] Updated Annex1
-- [X] Made corrects to SP-1030
+## 2020-05-28 Thursday
+## 2020-05-29 Friday
+## 2020-05-30 Saturday
 
-## Events to do or done
+# Week 21 Timecard
 
-- [X] Sent SP-1030 for Approval
-- [X] Updated Annex1
+| Date | Clock-In | Clock-Out | Deltas |
+|------|----------|-----------|--------|
+| M-18 |  6:56    |  17:43    |  10.28 |
+| T-19 |  6:55    |  17:45    |  10.33 |
+| W-20 |          |           |        |
+| R-21 |  6:57    |  17:15    |   9.80 |
+| F-22 |  7:34    |  18:38    |  10.57 |
+| S-23 |          |           |        |
+|------|----------|-----------|--------|
+|      | Totals   |           |  40.98 |
+
+## 2020-05-23 Saturday
+## 2020-05-22 Friday
+
 - [X] Backups
-- [ ] Drawings
-    - [ ] SP-1018
-    - [ ] SP-1022
 
-## Notes
-
-- thinking about doing a workflow list
-- start to document standards
-
-# 2020-04-28 Tuesday
-
-- Total Hours: 9.60
-- Clock-In: 6:59
-
-## Events to do or done
+## 2020-05-21 Thursday
 
 - [X] Backups
-- [X] Documentation SAFETY 15
-- [X] Started thank you card for mask
 
-## Notes
+## 2020-05-21 Wednesday
+## 2020-05-20 Tuesday
 
-*  Discussed call out for pipe line with Wren
-    - diameter and material on the same line
-    - slope on the next line (ex: SLOPE: 1/2" PER 1-0')
-    - length on the next line (ex: LENGTH: 18'-0")
-    - box around the information
-    - filled circle to anchor a leader to the line
-    - the leader pointing to the box
-    - similar to first image 
-    - call out text will be in the form of the second image
-    - this can be accomplished by a multileader.
-        - name the multileader: PIPE CALLOUT
+- [X] Backups
 
-![Sample of the call out for pipes](Annotation 2020-04-28 085005.png)
-![Text style for pipe line call outs](Annotation 2020-04-28 091825.png)
+## 2020-05-19 Monday
+
+- [X] Backups 
