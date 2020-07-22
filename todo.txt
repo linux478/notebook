@@ -1,9 +1,30 @@
-(A) 2020-06-11 Add changes from change request +Annex +SP-1018 @autocad
-2020-06-11 1. Check on flexable hose on blowndown seperator skid +Annex +SP-1018 @autocad @finalreview
-2020-06-11 2. Check on link to SP-1010 ROOF link needs to be changed +Annex +SP-1018 @autocad @finalreview
-2020-06-11 4. Check on link to SP-1028 +Annex +SP-1018 @autocad @finalreview
-2020-06-11 Review +Annex +EOM +SP-1022 @autocad due:2020-06-30
-2020-06-11 Review +Annex +EOM +SP-1029 @autocad due:2020-06-30
-2020-06-16 Change title to LINE 33 WFI LOOP +SP-1030 @finalreview
-2020-06-16 w3. Get drawing number for Line 33 Boiler Feedwater Tank +Annex +SP-1018 @autocad @finalreview @Ryan
-x 2020-06-16 2020-06-16 Change backup tabs +Backups @Work
+x 2020-07-21 40 +health @water
+! 30.   2020-07-21 Tuesday
+# ###########################################################################
+# 31.2  2020-07-28 00:00 - Tuesday
+# 31.2  2020-07-28 00:01 - Day Off
+# 31.2  2020-07-28 09:00 - car checkup +Car @Norwich
+# 31.2  2020-07-30 00:00 - Thursday
+# 31.2  2020-07-30 ??:?? - Chris Dewey Tool and Machine Inc. +Tour @Dewey
+# ;##########################################################################
+(C) Drawing Revisioning with Git +Versioning @Desk
+(W) 1012 Drawing +Annex @Routing 
+(W) 1013 Drawing +Annex @Routing 
+(W) 1018 Drawing +Annex @Routing 
+(W) 1029 Drawing +Annex @Routing
+(W) 1037 Drawing +Annex @WM update:2020-07-20
+x 2020-07-21 get Chris availability +Tour @Desk
+x 2020-07-21 confirmation for tour on 30th of July Thursday +Tour @CD
+x 2020-07-21 get Mark availability +Tour @Desk
+x 2020-07-20 1018 Drawing - add copy stamp to the new copies +Annex @Desk 
+x 2020-07-20 1018 Drawing - add page identifiers to original +Annex @Desk 
+x 2020-07-20 1018 Drawing - make two copies of the original +Annex @Desk 
+x 2020-07-20 1018 Drawing - scan the original to make copies +Annex @Desk 
+x 2020-07-20 Annex Timeline update +Annex @MO update:2020-07-20
+x 2020-07-21 1029 Drawing - Schedule meeting with RD to make new routing form +Annex update:2020-07-20
+x 2020-07-21 1029 Drawing - write a new routing form +Annex update:2020-07-20 @Desk 
+x 2020-07-21 2020-07-20 07:10 @ClockIn
+x 2020-07-21 2020-07-20 16:26 @ClockOut
+x 2020-07-21 2020-07-21 06:59 @ClockIn
+x 2020-07-21 2020-07-21 Add personal day to 28 July for car @Desk
+x 2020-07-21 Sent confirmation of tour +Tour @MO
