@@ -3,3 +3,5 @@ Michael Phillips <linux478@gmail.com>
 :toc:
 
 include::bash.adoc[]
+
+include::sleep.adoc[]
