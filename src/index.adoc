@@ -2,6 +2,8 @@
 Michael Phillips <linux478@gmail.com>
 :toc:
 
+include::trimmer.adoc[]
+
 include::bash.adoc[]
 
 include::sleep.adoc[]

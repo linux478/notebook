@@ -3,7 +3,7 @@ html: out/index.html out/sleep.png
 clean:
 	rm out/*
 
-out/index.html: src/index.adoc src/bash.adoc src/sleep.adoc
+out/index.html: src/index.adoc src/bash.adoc src/sleep.adoc src/trimmer.adoc
 	asciidoctor -D out/ src/index.adoc
 
 out/sleep.png:
