@@ -1,0 +1,46 @@
+== Journal
+
+=== Week 0{counter:week:6}
+
+==== TODAY: 2021-02-11 Thursday
+
+.tasks
+- [ ] `0222` SP-1010 PW 2 
+- [ ] `----` setup computer
+- [ ] `----` setup computer
+
+.0{counter:hour:9} Hour
+- Installed a timer app to help me focus on the task at hand
+- checked to see what drawings a due for this month
+- verify what meds i need to pick up today
+
+.09 Hour
+- setup 2 surfaces
+- do not want to add exact times to the log
+
+.10 Hour
+- got the two surfaces and will start them after lunch
+- water 33oz
+
+.11 Hour
+- lunch
+- move printer to storage
+- move monitor to storage
+
+.12 Hour
+- start updates on computers
+- organize office
+
+.13 Hour
+- IT Call MO: internet issues
+- setting up computer
+
+.14 Hour
+- What password do I use for bitlocker?
+- water 33oz
+
+.15 Hour
+- setting up computer
+
+.16 Hour
+- setting up computer

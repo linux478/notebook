@@ -1,0 +1,8 @@
+=== Compile Notebook
+
+----
+asciidoctor -D output index.adoc # <1>
+asciidoctor-pdf -D output index.adoc # <2>
+----
+<1> HTML output in the output directory
+<2> PDF output in the output directory

@@ -1,0 +1,18 @@
+=== Layers
+
+IMPORTANT: No object will be put on the "0" layer
+
+
+AREA-IDEN                                                7          CONTINUOUS             DEFAULT        YES      Color_7       YES     NO         NO         NO
+AREA-FENC
+FP-DOOR                                                   3          CONTINUOUS             DEFAULT        YES      Color_3       YES     NO         NO         NO
+FP-DOOR-IDEN                                                   3          CONTINUOUS             DEFAULT        YES      Color_3       YES     NO         NO         NO
+FP-STRS
+FP-WALL                                                   1          CONTINUOUS             DEFAULT        YES      Color_1       YES     NO         NO         NO
+FP-DOOR-OVHD                                                3          CONTINUOUS             DEFAULT        YES      Color_3       YES     NO         NO         NO
+FP-GLAZ                                           3          CONTINUOUS             DEFAULT        YES      Color_3       YES     NO         NO         NO
+Z-ANNO-TEXT
+Z-ANNO-PATT
+Z-ANNO-TBL
+Q-MANU                                                   91         CONTINUOUS             0.09           YES      Color_91      YES     NO         NO         NO
+

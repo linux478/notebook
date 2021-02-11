@@ -1,0 +1,27 @@
+= Employee Notebook
+Michael D. Phillips
+:sectnums:                                                          
+:toc:                                                               
+:toclevels: 4                                                       
+:toc-title: My Content                                              
+                                                                    
+:description: Notes for IT and Drafting
+:keywords: AsciiDoc                                                 
+:imagesdir: ./img                                                   
+
+<<<
+== Drafting
+include::drafting-layers.adoc[]
+<<<
+<<<
+== Information Technology
+<<<
+<<<
+== Journal
+include::journal.adoc[]
+<<<
+<<<
+== Appendex
+<<<
+include::phone.adoc[]
+include::compile.adoc[]

@@ -1,0 +1,6 @@
+=== Employee Phone Listing
+
+[format=dsv,separator=|]
+|===
+include::phone-list.psv[]
+|===
