@@ -1,13 +1,15 @@
 == Journal
 
-=== Week 0{counter:week:6}
+=== Archive
 
-==== 2021-02-11 Thursday
+==== Week 06
+
+===== 2021-02-11 Thursday
 
 .tasks
-- [ ] `0222` SP-1010 PW 2 
-- [ ] `----` setup computer
-- [ ] `----` setup computer
+- [>] `0222` SP-1010 PW 2 
+- [>] `----` setup computer
+- [>] `----` setup computer
 
 .0{counter:hour:9} Hour
 - Installed a timer app to help me focus on the task at hand
@@ -44,3 +46,7 @@
 
 .17 Hour
 - setting up computer
+.task
+- [ ] `0222` SP-1010 PW 2 
+- [ ] `----` setup computer
+- [ ] `----` setup computer
