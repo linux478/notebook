@@ -46,7 +46,44 @@
 
 .17 Hour
 - setting up computer
+
+=== TODAY: 2021-02-12 Friday
+
 .task
 - [ ] `0222` SP-1010 PW 2 
 - [ ] `----` setup computer
 - [ ] `----` setup computer
+
+.07 Hour
+
+- Over slept today because I did not go to bed on time.
+- arrive to work late
+
+.08 Hour
+
+- We do not have a policy for lending out monitors at this time per RL
+- Delivered power cables to MC.  link:https://www.amazon.com/Adapter-Arduino-Schwinn-Elliptical-Recumbent/dp/B06Y1LF8T5/ref=sr_1_1_sspa?dchild=1&keywords=ac+adapter+9+volt&qid=1612806460&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZU0s0TkYzVFJXSDUmZW5jcnlwdGVkSWQ9QTA3ODE1MzkzMDBVUTYySTJBRDNFJmVuY3J5cHRlZEFkSWQ9QTA2NzIxMDYxSzc1NEFYVDBTNDY1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==[Amazon Order]
+- IT Call GR: need headphones with mic, none found and none ordered
+
+.09 Hour
+
+- IT Call GL: Wanted monitor for home, gave him a monitor, vga cable, and
+  power cable
+  
+.10 Hour
+
+- configuring vim for asciidoc files
+
+.11 Hour
+
+- lunch
+- google git add -p
+
+.12 Hour
+
+- got information for install vpn software
+- got information for install camera software for the companies cameras
+
+.13 Hour
+
+
