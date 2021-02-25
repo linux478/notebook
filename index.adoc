@@ -1,5 +1,6 @@
 = Michael Phillips Notebook
 Michael D. Phillips
+:doctype: book
 :sectnums:                                                          
 :toc:                                                               
 :toclevels: 4                                                       
