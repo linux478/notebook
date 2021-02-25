@@ -1,5 +1,7 @@
-
 ==== 2021-02-25 Thursday
+
+.08 Hour
+- Add more label to the IT rack
 
 .07 Hour
 - Talked with JP
