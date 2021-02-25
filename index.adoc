@@ -1,10 +1,9 @@
-= Employee Notebook
+= Michael Phillips Notebook
 Michael D. Phillips
 :sectnums:                                                          
 :toc:                                                               
 :toclevels: 4                                                       
 :toc-title: My Content                                              
-                                                                    
 :description: Notes for IT and Drafting
 :keywords: AsciiDoc                                                 
 :imagesdir: ./img                                                   
