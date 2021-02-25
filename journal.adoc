@@ -74,7 +74,7 @@
 .17 Hour
 - setting up computer
 
-=== TODAY: 2021-02-12 Friday
+==== 2021-02-12 Friday
 
 .task
 - [ ] `0222` SP-1010 PW 2 
