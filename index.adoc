@@ -9,18 +9,24 @@ Michael D. Phillips
 :imagesdir: ./img                                                   
 
 <<<
-== Drafting
-include::drafting-layers.adoc[]
+== Personal
 <<<
-<<<
-== Information Technology
-<<<
-<<<
-== Journal
+
+=== Journal
 include::journal.adoc[]
 <<<
 <<<
-== Appendex
+
+== Work
+
+=== Drafting
+include::drafting-layers.adoc[]
+<<<
+<<<
+=== Information Technology
+<<<
+<<<
+=== Appendex
 <<<
 include::phone.adoc[]
 include::compile.adoc[]
