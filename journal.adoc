@@ -1,5 +1,8 @@
 ==== 2021-02-25 Thursday
 
+.10
+- Phone vendor will be remoting in to fix the phone issue
+
 .08 Hour
 - Add more label to the IT rack
 
