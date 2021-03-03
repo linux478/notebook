@@ -1,6 +1,7 @@
 = Notebook
 Michael Phillips <linux478@gmail.com>
 :toc:
+:experimental:
 
 include::trimmer.adoc[]
 
