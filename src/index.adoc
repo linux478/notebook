@@ -2,9 +2,4 @@
 Michael Phillips <linux478@gmail.com>
 :toc:
 :experimental:
-
-include::trimmer.adoc[]
-
-include::bash.adoc[]
-
-include::sleep.adoc[]
+:doctype: book
