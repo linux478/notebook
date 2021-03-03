@@ -1,5 +1,6 @@
 = Notebook
 Michael Phillips <linux478@gmail.com>
 :toc:
+:toc-title: Table of Contents
 :experimental:
 :doctype: book
