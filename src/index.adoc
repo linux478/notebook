@@ -5,25 +5,14 @@ Michael Phillips <linux478@gmail.com>
 :experimental:
 :doctype: book
 
-= Todo List
+<<<
+include::legend.adoc[]
 
-* [ ] SP-1017 (Approval)
-* [ ] SP-1036 (Approval)
-* [ ] Drawing Packet (Approval)
-** [ ] SP-1010 PC B (Approval)
-** [ ] SP-1010 PW B (Approval)
-** [ ] SP-1010 PHARMA B (Approval)
-* [ ] SP-1010 MEZ (Annual Review)
-* [ ] SP-1010 RD MEZZANINE (Annual Review)
+<<<
+include::todo.adoc[]
 
-
-= Journal
-
-== 3 March 2021 Wednesday
-
-* Made a todo list
-* My fustraction with the drawing control process.
-
-Mark,
+[.landscape]
+<<<
+include::calendar.adoc[]
 
 
