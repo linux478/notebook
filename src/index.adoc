@@ -12,6 +12,7 @@ include::legend.adoc[]
 <<<
 include::todo.adoc[]
 
+[.landscape]
 <<<
 include::calendar.adoc[]
 
