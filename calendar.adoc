@@ -1,0 +1,96 @@
+:icons: font
+
+[cols="50%,50%]
+|===
+2+^|Legend
+|icon:thermometer-empty[] | Task 0% Done
+|icon:thermometer-quarter[] | Task 25% Done
+|icon:thermometer-half[] | Task 50% Done
+|icon:thermometer-three-quarters[] | Task 75% Done
+|icon:thermometer-full[] | Task 100% Done
+|icon:clock[] | Time off
+|icon:clinic-medical[] | Doctor's Appointment
+|icon:drafting-compass[] | Drawings need to be drafted
+|icon:spinner[] | Waiting for response
+|icon:calendar-check[] | Annual Review
+|icon:comments[] | Meetings
+
+|===
+
+[.landscape]
+<<<
+
+[cols="10%,18%,18%,18%,18%,18%,10%"]
+|===
+7+^|March
+|Sun. |Monday |Tuesday |Wednesday |Thursday |Friday |Sat.
+|
+|1
+|2
+|3
+|4
+|5 +
+Today
+|6
+|7
+|8 +
+icon:clinic-medical[] Smith
+|9
+|10
+|11
+|12
+|13
+|14
+|15 +
+icon:clock[] Day Off
+|16 +
+icon:clock[] Day Off
+|17 +
+icon:clock[] Day Off
+|18
+|19
+|20
+|21
+|22 +
+icon:calendar-check[] 1010 MEZ +
+icon:calendar-check[] 1010 PC 3 +
+icon:calendar-check[] 1010 PW 3 +
+icon:calendar-check[] 1020 +
+icon:calendar-check[] 1028 +
+icon:calendar-check[] 1031 +
+icon:drafting-compass[] 1036 +
+icon:drafting-compass[] 1017 +
+icon:drafting-compass[] 1010 PC B +
+icon:drafting-compass[] 1010 PW B +
+icon:drafting-compass[] 1010 PHARMA B +
+icon:drafting-compass[] 1010 RD B
+|23
+|24
+|25
+|26
+|27
+|28
+|29
+|30
+|31
+3+|
+|===
+
+<<<
+
+== Todo
+
+icon:calendar-check[]   1010 MEZ +
+icon:calendar-check[]   1010 PC 3 +
+icon:drafting-compass[] 1010 PC B +
+icon:drafting-compass[] 1010 PHARMA B +
+icon:calendar-check[]   1010 PW 3 +
+icon:drafting-compass[] 1010 PW B +
+icon:drafting-compass[] 1010 RD B
+icon:drafting-compass[] 1017 +
+icon:calendar-check[]   1020 +
+icon:calendar-check[]   1028 +
+icon:calendar-check[]   1031 +
+icon:drafting-compass[] 1036 +
+
+== Notes
