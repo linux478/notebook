@@ -1,0 +1,1 @@
+asciidoctor-pdf -D output -o notebook.pdf src/index.adoc
