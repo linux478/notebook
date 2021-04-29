@@ -1,3 +1,0 @@
-== Sleep History
-
-image::sleep.png[]
