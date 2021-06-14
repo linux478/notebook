@@ -8,4 +8,22 @@
 :sectlinks:
 :sectnums:
 
+ifdef::index[]
 include::index.adoc[]
+endif::[]
+
+ifdef::drafting[]
+include::drawings.adoc[]
+endif::[]
+
+ifdef::it[]
+include::index_software.adoc[]
+endif::[]
+
+ifdef::personal[]
+include::personal.adoc[]
+endif::[]
+
+ifdef::appendix[]
+include::appendix.adoc[]
+endif::[]
