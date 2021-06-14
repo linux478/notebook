@@ -1,0 +1,11 @@
+= My Documentation
+:docinfo: shared
+:doctype: book
+:title: Michael Phillips Documentation
+:toc: left
+:toclevels: 2
+:sectanchors:
+:sectlinks:
+:sectnums:
+
+include::index.adoc[]

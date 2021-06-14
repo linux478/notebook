@@ -1,0 +1,15 @@
+toc::[]
+
+ifdef::drafting[]
+include::drawings.adoc[]
+endif::[]
+
+ifdef::it[]
+include::index_software.adoc[]
+endif::[]
+
+ifdef::personal[]
+include::personal.adoc[]
+endif::[]
+
+include::appendix.adoc[]

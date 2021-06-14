@@ -1,0 +1,17 @@
+== Appendix
+=== How To Compile
+
+[source,cmd]
+----
+ifdef::drafting[]
+asciidoctor -D . -a drafting --backend=html5 -o out/index.html main.adoc
+endif::[]
+
+ifdef::it[]
+asciidoctor -D . -a it --backend=html5 -o out/index.html main.adoc
+endif::[]
+
+ifdef::personal[]
+asciidoctor -D . -a personal --backend=html5 -o out/index.html main.adoc
+endif::[]
+----

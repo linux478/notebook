@@ -1,0 +1,12 @@
+=== AutoHotKey
+
+[source,autohotkey]
+----
+~LButton::
+  If (A_PriorHotKey = A_ThisHotKey and A_TimeSincePriorHotkey < 500) {
+    Sleep 200   ; wait for right-click menu, fine tune for your PC
+;;    Send {Esc}  ; close it
+    Send {F2}{Home}{Right}{Right}{Right}{Right}{Right}{Delete}{Enter}
+  }
+Return
+----

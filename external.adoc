@@ -1,0 +1,4 @@
+External References
+===================
+
+* https://powerman.name/doc/asciidoc[Asciidoc Cheat Sheet]

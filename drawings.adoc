@@ -1,0 +1,56 @@
+== Drawings
+=== CR112
+
+* BA
+** Ready for Review
+* EQ
+** Ready for Review
+* HV
+** Ready for Review
+* MA
+** Ready for Review
+* MT
+** Ready for Review
+* PC
+* PF
+* PH
+* PW
+** *Do not understand the markups*
+* RA
+** Ready for Review
+* RD
+* RM
+** Ready for Review
+* RO
+* WF
+
+=== Abbreviation
+
+.Layout Tabs
+* BA - Base
+* EQ - Equipment
+* HV - HVAC
+* MA - Manufacturing Equipment
+* ME - Mezzanine Level
+* MT - Material Flow
+* PC - Pest Control
+* PF - Personnel Flow
+* PH - Pharma & Non-Pharma Areas
+* PW - Plant Potable Water
+* RA - Warehouse Racking
+* RD - Room & Door Numbers
+* RM - Room Classification
+* RO - Roof Top Layout
+* WF - Waste Flow
+
+=== Layers
+
+==== Colors
+
+CAUTION: Color will override the vp color setting
+
+=== Checklist
+
+- [ ] Is Revision Block Correct?
+- [ ] Is Title Block Correct?
+
