@@ -6,5 +6,7 @@ include::index_software.adoc[]
 
 include::personal.adoc[]
 
+include::water.adoc[]
+
 include::appendix.adoc[]
 
