@@ -1,0 +1,39 @@
+== Contacts
+=== Business Contacts
+
+A
+B
+C
+D
+E
+F
+xref:contact-business-g[G]
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+[%header,format=csv]
+|===
+Name               , Address 1  , Address 2 , City    , State , Zip   , Phone        , E-mail                                        , Website
+
++++<a id="contact-business-g">+++G,,,,,,,,
+Guy's Bicycle Shop , 7203 US-20 ,           , Madison , NY    , 13402 , 315.893.7231 , mailto:gbs@madbikeguy.com[gbs@madbikeguy.com] , https://www.madbikeguy.com/index.html
+|===
+

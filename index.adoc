@@ -8,5 +8,7 @@ include::personal.adoc[]
 
 include::water.adoc[]
 
+include::contacts.adoc[]
+
 include::appendix.adoc[]
 
