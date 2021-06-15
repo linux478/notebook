@@ -1,5 +1,7 @@
 == Water Consumption
 [%header,format=csv]
 |===
-include::water.csv[]
+Date       , Consumption(oz)
+2021-06-14 , 64
+2021-06-15 , 32
 |===
