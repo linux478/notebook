@@ -1,0 +1,3 @@
+[submodule "language/autolisp"]
+	path = language/autolisp
+	url = https://github.com/linux478/autolisp.git
