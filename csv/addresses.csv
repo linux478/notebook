@@ -1,5 +1,5 @@
-ID, Name                                        , Address1               , Address2, City      , State, Zip
- 1, Syracuse Gastroenterological Associates P.C., 3045 John Trush Jr Blvd,         , Cazenovia , NY   , 13035
- 2, Waterville Family Health Center             , 117 West Main Street   ,         , Waterville, NY   , 13480
- 3, Eye Consultants of Syracuse                 , 5792 Widewaters Parkway,         , Syracuse  , NY   , 13214
+ID, Name                                        , Address1               , Address2, Zipcode
+ 1, Syracuse Gastroenterological Associates P.C., 3045 John Trush Jr Blvd,         , 13035
+ 2, Waterville Family Health Center             , 117 West Main Street   ,         , 13480
+ 3, Eye Consultants of Syracuse                 , 5792 Widewaters Parkway,         , 13214
  4,                                             , 43 Clyde Street        ,         , 13332
