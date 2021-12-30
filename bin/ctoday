@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+grep $(date +%Y-%m-%d) csv/calendar.csv
