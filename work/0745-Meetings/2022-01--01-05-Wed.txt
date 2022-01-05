@@ -2,6 +2,7 @@
 
 ## Attendees
 
+- [x] Danny
 - [x] Jake
 - [x] Kyle
 - [x] Kristen
