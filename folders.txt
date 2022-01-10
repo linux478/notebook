@@ -1,0 +1,4 @@
+# Folders
+
+* Pictures on my cell phone
+** Phillips/DCIM/Camera
