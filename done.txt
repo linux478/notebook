@@ -1,9 +1,0 @@
-x 2020-06-11 2020-06-11 5 minutes of fitness +fitness @work
-x 2020-06-11 2020-06-11 Add page reference down +standards +blocks @autocad
-x 2020-06-11 2020-06-11 Add page reference left +standards +blocks @autocad
-x 2020-06-11 2020-06-11 Add page reference right +standards +blocks @autocad
-x 2020-06-11 2020-06-11 Add page reference up +standards +blocks @autocad
-x 2020-06-11 2020-06-11 Corp finished successfully +backups @backups
-x 2020-06-11 2020-06-11 E-mail Backup Finished +backups @e-mail
-x 2020-06-11 2020-06-11 GMP finished successfully +backups @backups
-x 2020-06-11 2020-06-11 Pipe call arrowhead size = .35 +standards +leaders @autocad

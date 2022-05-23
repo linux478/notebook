@@ -1,0 +1,19 @@
+# 2022-02-01-10-Mon
+
+## 0745 Meeting
+
+- [ ] Danny - Late
+- [X] Jake - Late
+- [X] Kyle
+- [ ] Kristen - Sick
+- [X] Michael
+- [X] Steve
+- [X] Tom
+
+## Accomplished to Today
+
+* DLUT was demo to the team
+** DLUT can now create the pdf
+** DLUT can now create the folders for the pdfs
+** DLUT can now create a communication log file
+
